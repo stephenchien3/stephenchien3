@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 I'm a current student at Cornell studying CS, interested in ML and AI. 
 
 <!--
 **stephenchien3/stephenchien3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
